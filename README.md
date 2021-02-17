@@ -31,7 +31,7 @@ git官网可下载
 
 **指令和流程：**
 
-![img](git.assets/git-command.jpg)
+![img](git.assets/git-command.jpg?raw=true)
 
 workspace：工作区，一般通过git checkout切换分支达到跳转工作区（分支）
 
